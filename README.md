@@ -2,3 +2,5 @@
 
 My first GtHub repo!
 Hello Odin!
+
+KAIZEN
